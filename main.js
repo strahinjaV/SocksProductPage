@@ -9,7 +9,7 @@ const app = Vue.createApp({
                 {id: 2235, color: 'blue'},
             ],
             details: ['50% cotton', '30% wool', '20% polyester'],
-            sizes: ['small', 'medium', 'large', 'xL'],
+            sizes: ['small', 'medium', 'large', 'extraLarge'],
         }
     }
 })
